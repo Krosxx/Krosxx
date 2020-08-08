@@ -3,6 +3,10 @@
 
 #### Project without pinned
 
+- [Energy Ring](https://github.com/Vove7/EnergyRing)
+  
+  ⭕ 异形屏电量指示环
+
 - [Android-Accessibility-Api](https://github.com/Vove7/Android-Accessibility-Api)
 
   🕹 安卓无障碍服务Api, 为了简化无障碍服务使用，并使用 Kotlin 以提供简洁的Api。
