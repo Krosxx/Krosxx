@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src="https://github-readme-stats.vercel.app/api?username=Vove7&show_icons=true">
 
 
 #### My project without pinned
