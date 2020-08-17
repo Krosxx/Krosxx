@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Vove7&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Vove7&count_private=true&show_icons=true">
 
 
 #### My project without pinned
