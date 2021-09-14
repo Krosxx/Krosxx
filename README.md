@@ -12,3 +12,4 @@
 | [SlidePickerView](https://github.com/Vove7/SlidePickerView)  | Android 实现滑动选择视图                                     |
 | [InternationalizationTranslation](https://github.com/Vove7/InternationalizationTranslation) | 📋 一款AndroidStudio插件，使用该插件，可以快速生成28种语言的string.xml文件 |
 | [MidiPlayer-Compose](https://github.com/Vove7/MidiPlayer-Compose) | 使用 Compose UI 编写的 .mid 文件播放器，可输出到MIDI设备。 |
+| [Vassist-Debugger-VSC](https://github.com/Vove7/vassist-debugger-vsc) | VAssistant Vscode 远程调试插件 |
