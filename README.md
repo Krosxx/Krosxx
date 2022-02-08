@@ -4,6 +4,9 @@
   <samp>
     Hi <br/>
     I'm a Kotlin & Android & RE Developer.
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vove7)](https://github.com/anuraghazra/github-readme-stats)
+
   </samp>
   <br/><br/><br/><br/><br/>
 </div>
