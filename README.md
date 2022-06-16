@@ -21,5 +21,3 @@
 | [MidiPlayer-Compose](https://github.com/Vove7/MidiPlayer-Compose) | 使用 Compose UI 编写的 .mid 文件播放器，可输出到MIDI设备。 |
 | [VAssist-Debugger-VSC](https://github.com/Vove7/vassist-debugger-vsc) | [VAssistant](https://vove.gitee.io/) VSCode 远程调试插件 |
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vove7)](https://github.com/anuraghazra/github-readme-stats)
