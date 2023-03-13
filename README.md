@@ -1,12 +1,11 @@
 <div display="block">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Vove7&count_private=true&show_icons=true">
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Vove7&count_private=true&show_icons=true"> -->
   <samp>
     Hi <br/>
-    I'm a Senior Development Engineer.
+    I'm a full stack Developer.
     <br/>
     Kotlin, C++, Java, Python, Dart(Flutter), Reverse Engineering... 
   </samp>
-  <br/><br/><br/><br/><br/>
 </div>
 
 #### My project without pinned
