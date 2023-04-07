@@ -4,7 +4,7 @@
     Hi <br/>
     I'm a full stack Developer.
     <br/>
-    Kotlin, C++, Java, Python, Dart(Flutter), Reverse Engineering... 
+    Kotlin, C++, Java, Python, Dart(Flutter), RE... 
   </samp>
 </div>
 
